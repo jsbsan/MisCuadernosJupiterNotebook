@@ -1,0 +1,18 @@
+PASO 1:
+- cambio " por nada
+- cambio ; por ,
+- cambioo / por - (comentario: es para la fecha)
+
+En la primera linea (nombres de campos), hay que regularizarlos:
+- nombres de campos: quitar espacios,parentisis, punto, -
+
+PASO 2:
+Al importar csv ,
+campo de fecha como datetime
+ y   formato de fecha:  %d-%m-%Y %H:%M:%S   -> hay que indicarlo el formato de fecha
+
+campos numericos poner DOUBLE
+  y punto decimal.
+
+
+
